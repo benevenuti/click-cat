@@ -20,3 +20,17 @@
 .App-link {
   color: #09d3ac;
 }
+
+.catView {
+  background: #eee;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.catView img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+
+}
